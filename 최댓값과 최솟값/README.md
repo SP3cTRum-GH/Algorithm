@@ -16,3 +16,4 @@ s에는 둘 이상의 정수가 공백으로 구분되어 있습니다.
 |"-1 -2 -3 -4"|"-4 -1"|
 |"-1 -1"|"-1 -1"|
 
+출처:https://school.programmers.co.kr/learn/courses/30/lessons/12939
