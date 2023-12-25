@@ -1,6 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.*;
+
 class Solution
 {
     public int solution(int n, int a, int b)
